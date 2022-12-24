@@ -6,7 +6,7 @@
 ## Для создания программы используем язык C#
 
 * Сперва составляем блок-схему выполнения алгоритма:
-[block-diagram-png.png](https://postimg.cc/VdRVRbYs)
+[![block-diagram-png.png](https://i.postimg.cc/mgfWTQJ9/block-diagram-png.png)](https://postimg.cc/VdRVRbYs)
 
 * Заполняем массив случайными **строками** и выводим его в консоль.
 
