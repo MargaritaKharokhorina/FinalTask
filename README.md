@@ -6,7 +6,7 @@
 ## Для создания программы используем язык C#
 
 * Сперва составляем блок-схему выполнения алгоритма:
-![Блок-схема](block_diagram_forFT.png)
+![]([block_diagram_forFT.png](https://github.com/MargaritaKharokhorina/FinalTask/commit/a65a6f5fb9f3830028566d7ce3919b89ac714364))
 
 * Заполняем массив случайными **строками** и выводим его в консоль.
 
