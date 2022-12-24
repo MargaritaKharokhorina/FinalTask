@@ -109,7 +109,11 @@
                         <mxPoint x="240" y="480" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
+<<<<<<< HEAD
                 <mxCell id="44" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+=======
+                <mxCell id="44" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+>>>>>>> 897310e35fc1218d989213a856f11af6c4692e85
                     <mxGeometry x="560" y="520" width="115" height="60" as="geometry"/>
                 </mxCell>
             </root>
